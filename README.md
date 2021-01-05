@@ -11,11 +11,11 @@
 > https://devarea.com/linear-regression-lab-solution/#.X_S30NgzZ3g
 -----------------------------------
 
-# Gradient Descent
+# Gradient Descent 예제
 - 보스턴 주택 가격 데이터셋
 > https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html
 -----------------------------------
 
-# Linear Regression
+# Linear Regression 예제
 - EcommerceCustomers.csv
 > https://amete.github.io/DataSciencePortfolio/Udemy/Python-DS-and-ML-Bootcamp/Linear_Regression_Project.html
