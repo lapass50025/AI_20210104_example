@@ -13,7 +13,7 @@
 
 # Gradient Descent 예제
 - 보스턴 주택 가격 데이터셋
-> https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html
+> https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155
 -----------------------------------
 
 # Linear Regression 예제
